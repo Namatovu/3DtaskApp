@@ -10,3 +10,6 @@ index.php //will have our login
 tasks.php //the task add and viewing
 model //will handle backend ..database and connection logic
 assets folder //for all external linking and images
+
+
+add each a branch and make sure to you pull and merge your changes to the main
